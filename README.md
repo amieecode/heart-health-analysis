@@ -11,6 +11,7 @@ Pulse of Prevention is an exploratory data analysis (EDA) project focused on und
 
 ## Dataset
 Source: [Heart Disease Dataset - Kaggle](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
+
 Size: 1,025 entries, 14 features
 Features include:
 - Demographics: Age, Sex
