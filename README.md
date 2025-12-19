@@ -28,7 +28,7 @@ Features include:
 - Average blood pressure: 132 mmHg
 - Average cholesterol: 246 mg/dL
 - 15% of patients have high fasting blood sugar (>120 mg/dL)
-- 
+ 
 2. Heart Disease Risk Factors
 - Strongest predictors: Chest pain type (cp), Exercise-induced angina (exang), ST segment slope (slope), Max heart rate (thalach)
 - Patients with fixed thalassemia defects (thal=2) are at higher risk
@@ -67,7 +67,7 @@ This EDA highlights the critical factors influencing heart disease and demonstra
 - Matplotlib, Seaborn
 - Scikit-learn
 - Power BI
-- 
+ 
 ## Dashboard View
 ![Dashboard]()
 
