@@ -69,7 +69,9 @@ This EDA highlights the critical factors influencing heart disease and demonstra
 - Power BI
  
 ## Dashboard View
-![Dashboard]()
+![Dashboard](https://github.com/amieecode/heart-health-analysis/blob/main/Image/Heart%20health.png)
+![Dashboard](https://github.com/amieecode/heart-health-analysis/blob/main/Image/Heart%20health%202.png)
+![Dashboard](https://github.com/amieecode/heart-health-analysis/blob/main/Image/Insight%20.png)
 
 ## Author
 BuiltbyAmiee
