@@ -73,5 +73,10 @@ This EDA highlights the critical factors influencing heart disease and demonstra
 ![Dashboard](https://github.com/amieecode/heart-health-analysis/blob/main/Image/Heart%20health%202.png)
 ![Dashboard](https://github.com/amieecode/heart-health-analysis/blob/main/Image/Insight%20.png)
 
-## Author
-BuiltbyAmiee
+## Recommendation
+
+Our analysis shows that heart disease risk is influenced by multiple factors working together rather than a single measurement. Age, chest pain type, exercise-induced angina, ST segment slope, and maximum heart rate are the strongest indicators of risk.
+
+Patients aged 40–60 and those with fixed thalassemia defects (thal = 2) are particularly vulnerable. Combining these clinical and demographic indicators allows for more accurate identification of high-risk patients.
+
+We recommend focusing on integrated risk assessments, early preventive interventions for mid-life patients, and closer monitoring of patients with high-risk ECG or thalassemia profiles. Leveraging predictive insights can improve early detection and guide personalized care strategies.
