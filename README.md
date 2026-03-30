@@ -23,28 +23,28 @@ Features include:
 
 ## Key Findings
 1. Demographics & Clinical Insights
-- Average age: 54 years
-- Male patients: 59%, Female patients: 41%
-- Average blood pressure: 132 mmHg
-- Average cholesterol: 246 mg/dL
-- 15% of patients have high fasting blood sugar (>120 mg/dL)
+    - Average age: 54 years
+    - Male patients: 59%, Female patients: 41%
+    - Average blood pressure: 132 mmHg
+    - Average cholesterol: 246 mg/dL
+    - 15% of patients have high fasting blood sugar (>120 mg/dL)
  
 2. Heart Disease Risk Factors
-- Strongest predictors: Chest pain type (cp), Exercise-induced angina (exang), ST segment slope (slope), Max heart rate (thalach)
-- Patients with fixed thalassemia defects (thal=2) are at higher risk
-- Age, cholesterol, and blood pressure are contributing factors, especially when combined with other risk indicators
+    - Strongest predictors: Chest pain type (cp), Exercise-induced angina (exang), ST segment slope (slope), Max heart rate (thalach)
+    - Patients with fixed thalassemia defects (thal=2) are at higher risk
+    - Age, cholesterol, and blood pressure are contributing factors, especially when combined with other risk indicators
 
 3. Age & Risk Trends
-- Heart disease prevalence is significant in the ages 40–60
-- Early 40s and late 50s are critical windows for preventive interventions
+    - Heart disease prevalence is significant in the ages 40–60
+    - Early 40s and late 50s are critical windows for preventive interventions
 
 4. Predictive Modeling
-- Logistic Regression using all features achieved ~81% accuracy
-- Model effectively identifies at-risk patients for early intervention
-- Clinical & Business Impact
-- Targeted screening for high-risk patients improves early detection
-- Personalized interventions based on ECG, thalassemia, and clinical measurements enhance patient outcomes
-- Data-driven insights guide resource allocation and preventive healthcare strategies
+    - Logistic Regression using all features achieved ~81% accuracy
+    - Model effectively identifies at-risk patients for early intervention
+    - Clinical & Business Impact
+    - Targeted screening for high-risk patients improves early detection
+    - Personalized interventions based on ECG, thalassemia, and clinical measurements enhance patient outcomes
+    - Data-driven insights guide resource allocation and preventive healthcare strategies
 
 ## Exploratory Data Analysis
 - Distribution Analysis: Age, gender, chest pain types, thalassemia types
