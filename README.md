@@ -1,7 +1,7 @@
 # Pulse of Prevention: Heart Disease Analysis
 
 ## Project Overview
-Pulse of Prevention is an exploratory data analysis (EDA) project focused on understanding the factors contributing to heart disease. Using a dataset of 1,025 patients, this analysis identifies key risk factors, explores patient profiles, and provides insights for early interventions to improve patient outcomes.
+Pulse of Prevention is a project focused on understanding the factors contributing to heart disease. Using a dataset of 1,025 patients, this analysis identifies key risk factors, explores patient profiles, and provides insights for early interventions to improve patient outcomes.
 
 ## Objective:
 - Identify key factors contributing to heart disease
